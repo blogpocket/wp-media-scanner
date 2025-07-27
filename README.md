@@ -1,7 +1,7 @@
 # WP Media Scanner
 
 **Versión:** 2.1  
-**Autor:** A. Cambronero (Blogpocket.com)
+**Autor:** Antonio Cambronero (Blogpocket.com)
 
 ## Descripción
 Detecta vídeos (YouTube, Vimeo, youtu.be, archivos), audios (archivos, SoundCloud, Spotify), y medios (`media`) por keywords (tv, play, multimedia, etc.).
@@ -20,6 +20,9 @@ En **Ajustes > Media Scanner**:
 
 ## Uso
 Resultados paginados y filtrados.
+
+## Pruebas
+Antes de usar este plugin en una instalación real o de producción, pruébalo en un entorno de test. Por favor, si detectas algún fallo o error, comunícalo al autor del plugin.
 
 ## Compatibilidad
 WP 5.0+, PHP 7.0+.
